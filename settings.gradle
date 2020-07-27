@@ -1,0 +1,2 @@
+include ':app', ':harish', ':javaday'
+rootProject.name='JavaDayZero'
